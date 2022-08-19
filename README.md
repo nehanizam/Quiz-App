@@ -1,2 +1,2 @@
 # Quiz-App
-https://nehanizam.github.io/ Quiz-App/
+https://nehanizam.github.io/Quiz-App/
